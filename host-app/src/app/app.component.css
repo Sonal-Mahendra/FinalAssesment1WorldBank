@@ -1,0 +1,7 @@
+.mfe1Theme {
+    @import('assets/mfe1/styles.css')
+}
+
+.mfe2Theme {
+    @import('assets/mfe1/styles.css')
+}
